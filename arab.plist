@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
         <key>items</key>
@@ -33,15 +32,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>bundleID</string>
+                    <string>com.ZhongShang.ZSHub</string>
                     <key>bundle-version</key>
                     <string>1.2</string>
                     <key>kind</key>
-                    <string>game</string>
+                    <string>software</string>
                     <key>subtitle</key>
                     <string>App</string>
                     <key>title</key>
-                    <string>معجزة القدر</string>
+                    <string>game</string>
                 </dict>
             </dict>
         </array>
